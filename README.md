@@ -3,7 +3,7 @@
 ### Motivado, dinámico y proactivo
 Licenciado en Matemáticas 🔢 y atrapado por la tecnología. Profesionalmente he compaginado la docencia y la programación. A los 12 años hice mi primer pong en basic en un 💾 Amstrad CPC 464.
 
-Trabajo a cuenta ajena y también he sido autónomo. Depende del proyecto y del tipo de colaboración. He estado sido soporte, desarrollador, he dirigido proyectos y gestionado equipos. Sin duda, prefiero programar.
+Trabajo a cuenta ajena y también he sido autónomo. Depende del proyecto y del tipo de colaboración. He sido soporte, desarrollador, he dirigido proyectos y gestionado equipos. Sin duda, prefiero programar.
 
 En mi tiempo libre me pierdo con mi bicicleta MTB y siempre que puedo me gusta viajar y hacer turismo de playa o montaña. Aunque durante años deambulé por España ahora me encuentro de vuelta en mi tierra, Cádiz.
 
@@ -20,11 +20,12 @@ Te dejo donde poder encontrarme, aunque si lo prefieres me puedes 💬 por email
 ### Listado de proyectos públicos
 La mayoría de mis proyectos son privados porque así lo desean mis clientes. En cualquier caso te dejo una lista de repositorios públicos en los tengo algunos proyectos interensantes y que normalmente uso para ponerme al día de nuevas tecnologías.
 
-#### Porfolio personal
-[Porfolio](https://github.com/FranEspina/static-portfolio) HTML5 con CSS
+#### .NET SKiasharp + Redes neuronales
+Pruebas de uso de red neuronal para la [conducción autónoma](https://github.com/FranEspina/SkiaCarForms) de un vehículo. Dibujado con el canvas de SkiaSharp usando c# .NET como lenguaje de programación. 
 
+Permite jugar controlando un coche 2D, simular tráfico, entrenar una perceptrón multicapa para que aprenda a esquivar vehículos. En el lateral se puede ver la neurona y la activación de la entradas y salidas de las diferentes capas.
 
-[![Porfolio personal](./images/pr-portfolio.png)](https://fjespina.netlify.app/)
+![Conducción por IA](./images/pr-driving.png)
 
 #### MUI Strava
 Cliente WEB para interacciones con los datos de Strava:
@@ -38,3 +39,8 @@ Diferentes [proyectos](https://github.com/FranEspina/react-projects)  y pruebas 
 
 [![Porfolio personal](./images/pr-react.png)](https://fjespina-sample-store.netlify.app/)
 
+#### Porfolio personal
+[Porfolio](https://github.com/FranEspina/static-portfolio) HTML5 con CSS
+
+
+[![Porfolio personal](./images/pr-portfolio.png)](https://fjespina.netlify.app/)
