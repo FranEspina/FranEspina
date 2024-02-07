@@ -14,12 +14,15 @@ En mi tiempo libre me pierdo con mi bicicleta MTB y siempre que puedo me gusta v
 Te dejo donde poder encontrarme, aunque si lo prefieres me puedes 💬 por email en la direccion 📧 francisco.espina.aragon@gmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fran_Espina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/fjespina)
+
 [![Porfolio](https://img.shields.io/badge/Web-FJESPINA.NETLIFY.APP-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://fjespina.netlify.app)
+
 [![GitHub](https://img.shields.io/badge/GITHUB-franespina-5DC1B9?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://github.com/franespina)
 
 Si lo prefieres puedes acceder a un resumen de mi [curriculum en PDF](https://www.canva.com/design/DAFwTGjpQes/quZoDoXJPSQr9o29TGHhIQ/view?utm_content=DAFwTGjpQes&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) o a un [listado detallado de proyectos](https://fjespina.netlify.app/assets/Proyectos%20Freelance%20Fran%20Espina.pdf) donde listo proyecto, competencias y tecnologías usadas.
 
-[![CV](https://img.shields.io/badge/CV-Fran%20Espina-FF9333?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://fjespina.netlify.app/assets/Proyectos%20Freelance%20Fran%20Espina.pdf)
+[![CV](https://img.shields.io/badge/CV-Fran%20Espina-FF9333?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.canva.com/design/DAFwTGjpQes/quZoDoXJPSQr9o29TGHhIQ/view?utm_content=DAFwTGjpQes&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 [![Proyectos](https://img.shields.io/badge/Skills-Proyectos-FF5733?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://fjespina.netlify.app/assets/Proyectos%20Freelance%20Fran%20Espina.pdf)
 
 ### Listado de proyectos públicos
