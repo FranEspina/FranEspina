@@ -17,6 +17,11 @@ Te dejo donde poder encontrarme, aunque si lo prefieres me puedes 💬 por email
 [![Porfolio](https://img.shields.io/badge/Web-FJESPINA.NETLIFY.APP-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://fjespina.netlify.app)
 [![GitHub](https://img.shields.io/badge/GITHUB-franespina-5DC1B9?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://github.com/franespina)
 
+Si lo prefieres puedes acceder a un resumen de mi [curriculum en PDF](https://www.canva.com/design/DAFwTGjpQes/quZoDoXJPSQr9o29TGHhIQ/view?utm_content=DAFwTGjpQes&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) o a un [listado detallado de proyectos](https://fjespina.netlify.app/assets/Proyectos%20Freelance%20Fran%20Espina.pdf) donde listo proyecto, competencias y tecnologías usadas.
+
+[![CV](https://img.shields.io/badge/CV-Fran%20Espina-FF9333?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://fjespina.netlify.app/assets/Proyectos%20Freelance%20Fran%20Espina.pdf)
+[![Proyectos](https://img.shields.io/badge/Skills-Proyectos-FF5733?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://fjespina.netlify.app/assets/Proyectos%20Freelance%20Fran%20Espina.pdf)
+
 ### Listado de proyectos públicos
 La mayoría de mis proyectos son privados porque así lo desean mis clientes. En cualquier caso te dejo una lista de repositorios públicos en los tengo algunos proyectos interensantes y que normalmente uso para ponerme al día de nuevas tecnologías.
 
