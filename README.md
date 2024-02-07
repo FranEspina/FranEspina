@@ -52,3 +52,8 @@ Diferentes [proyectos](https://github.com/FranEspina/react-projects)  y pruebas 
 
 
 [![Porfolio personal](./images/pr-portfolio.png)](https://fjespina.netlify.app/)
+
+#### NextJs - Router + Maestro detalle 
+Pruebas con NextJs para la creación de una web con [backend y frontend](https://github.com/FranEspina/my-projects) en el mismo proyecto. Creación de un [CRUD](https://my-projects-seven-phi.vercel.app/dashboard/languages). Desarrollado con TypeScript y estilado con Tailwind. Backend con base de datos en Postgresql.
+
+![Lenguajes de programación](./images/pr-languages.png)
