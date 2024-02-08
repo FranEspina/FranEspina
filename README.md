@@ -21,7 +21,7 @@ Te dejo donde poder encontrarme, aunque si lo prefieres me puedes 💬 por email
 
 Si lo prefieres puedes acceder a un resumen de mi [curriculum en canva](https://www.canva.com/design/DAFwTGjpQes/quZoDoXJPSQr9o29TGHhIQ/view?utm_content=DAFwTGjpQes&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) o a un [listado detallado de proyectos](https://fjespina.netlify.app/assets/Proyectos%20Freelance%20Fran%20Espina.pdf) en PDF, donde listo proyecto, competencias y tecnologías usadas.
 
-[![CV](https://img.shields.io/badge/CV-Fran%20Espina-FF9333?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.canva.com/design/DAFwTGjpQes/quZoDoXJPSQr9o29TGHhIQ/view?utm_content=DAFwTGjpQes&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![CV](https://img.shields.io/badge/CV-Fran%20Espina-FF9333?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](./docs/CV%20Tecnología%20con%20Proyectos.pdf)
 
 [![Proyectos](https://img.shields.io/badge/Skills-Proyectos-FF5733?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://fjespina.netlify.app/assets/Proyectos%20Freelance%20Fran%20Espina.pdf)
 
