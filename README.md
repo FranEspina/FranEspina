@@ -35,7 +35,12 @@ Permite jugar controlando un coche 2D, simular tráfico, entrenar una perceptró
 
 ![Conducción por IA](./images/pr-driving.png)
 
-#### MUI Strava
+#### .NET MAUI Marvel Heroes
+[Aplicación multiplataforma](https://github.com/FranEspina/MauiMarvelHeroes) desarrollada con .NET MAUI. Uso de animaciones y consumo de API REST.
+
+[![MAUI Marvel](./images/pr-mauimarvel.png)](https://github.com/FranEspina/MauiMarvelHeroes/blob/master/README.md)
+
+#### Material MUI Strava
 Cliente WEB para interacciones con los datos de Strava:
 - [Backend](https://github.com/FranEspina/api-strava) - NodeJs, Javascript, express, MongoDb.
 - [Frontend](https://github.com/FranEspina/strava-client) - React + TypeScript
