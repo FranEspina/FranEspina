@@ -47,10 +47,17 @@ Cliente WEB para interacciones con los datos de Strava:
 
 [![MUI Strava](./images/pr-strava.png)](https://fjespina-strava-client.onrender.com/)
 
-#### React
-Diferentes [proyectos](https://github.com/FranEspina/react-projects)  y pruebas con React y sus principales hooks.
+#### Astro + React + Express Backend
+Proyecto personal en fase de desarrollo donde un desarrollador se podrá logar y guardar información relevante sobre su experiencia como desarrollador.
 
-[![Porfolio personal](./images/pr-react.png)](https://fjespina-sample-store.netlify.app/)
+[![Perfil de desarrollador](./images/pr-devprofile.png)](https://github.com/FranEspina/devprofile-fordev)
+
+#### React
+Diferentes [proyectos](https://github.com/FranEspina/react-projects)  y pruebas con React y sus principales hooks. Son clones de diversos proyectos realizados por [midudev](https://github.com/midudev) en su curso de react, sobre los que he ido trabajando y mejorando detalles. 
+
+Mis agradecimientos por el contenido que crea en su canal y con su comunidad.
+
+[![Tienda react](./images/pr-react.png)](https://fjespina-sample-store.netlify.app/)
 
 #### Porfolio personal
 [Porfolio](https://github.com/FranEspina/static-portfolio) HTML5 con CSS
@@ -58,7 +65,7 @@ Diferentes [proyectos](https://github.com/FranEspina/react-projects)  y pruebas 
 
 [![Porfolio personal](./images/pr-portfolio.png)](https://fjespina.netlify.app/)
 
-#### NextJs - Router + Maestro detalle 
-Pruebas con NextJs para la creación de una web con [backend y frontend](https://github.com/FranEspina/my-projects) en el mismo proyecto. Creación de un [CRUD](https://my-projects-seven-phi.vercel.app/dashboard/languages). Desarrollado con TypeScript y estilado con Tailwind. Backend con base de datos en Postgresql.
+#### NEXT.js - Router + Maestro detalle 
+Pruebas con [NEXT.js](https://nextjs.org/) para la creación de una web con [backend y frontend](https://github.com/FranEspina/my-projects) en el mismo proyecto. Creación de un [CRUD](https://my-projects-seven-phi.vercel.app/dashboard/languages). Desarrollado con TypeScript y estilado con Tailwind. Backend con base de datos en Postgresql.
 
 ![Lenguajes de programación](./images/pr-languages.png)
